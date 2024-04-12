@@ -76,6 +76,9 @@
 - **Segurança e Proteção de Dados:** Assegurar que o ambiente de armazenamento seja protegido contra ameaças cibernéticas, configurando medidas de segurança robustas e implementando políticas de backup e recuperação de dados eficazes.
 - **Backup e Recuperação de Dados:** Implementar e testar regularmente procedimentos de backup e recuperação de dados para proteger contra perda de dados e garantir a disponibilidade de informações críticas em caso de falha do sistema.
 - **Manutenção:** Manter o TrueNAS atualizado com as últimas atualizações de software e patches de segurança para garantir que o sistema esteja protegido contra vulnerabilidades conhecidas e continue funcionando de forma otimizada.
+<br><br>
+
+(https://github-readme-stats.vercel.app/api?username={nbtech-prox}&theme=blue-green)
 
 
 
