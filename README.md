@@ -50,3 +50,21 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
+
+<h3><b><samp>Learning ( Conhecimentos )</samp></b></h3>
+<h4><b><samp>AutoCAD 2D e 3D</samp></b></h4>
+<p align="center">utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
