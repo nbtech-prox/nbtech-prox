@@ -22,7 +22,7 @@
 </p>
 <br><br>
 
-#### Programming Skills - Habilidades em Programação
+#### Habilidades em Programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <br><br>
 
-#### Designer Skills - Habilidades em Designer
+#### Habilidades em Designer
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,7 +68,7 @@
 - **Segurança:** Garanto que os sistemas estejam protegidos contra ameaças cibernéticas, configurando firewalls, implementando práticas de segurança recomendadas e mantendo-os atualizados com as últimas correções de segurança.
 - entre outros.
 - **Manutenção:** Atualizações e Patches: Manter o Proxmox atualizado com as últimas atualizações de software e patches de segurança, garantindo que o sistema esteja protegido contra vulnerabilidades conhecidas e operando com eficiência.
-##### Servidor de filheiros com TrueNAS
+##### Servidor de ficheiros com TrueNAS
 - **Planejamento de Infraestrutura de Armazenamento:** Desenvolver planos detalhados para implementar ambientes de armazenamento que atendam às necessidades específicas de cada cliente, garantindo eficiência, escalabilidade e segurança.
 - **Implementação e Configuração:** Colocar em prática os planos elaborados, garantindo uma instalação e configuração corretas do TrueNAS para atender às demandas de armazenamento da empresa.
 - **Segurança e Proteção de Dados:** Assegurar que o ambiente de armazenamento seja protegido contra ameaças cibernéticas, configurando medidas de segurança robustas e implementando políticas de backup e recuperação de dados eficazes.
