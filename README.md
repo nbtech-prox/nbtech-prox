@@ -78,7 +78,7 @@
 - **Manutenção:** Manter o TrueNAS atualizado com as últimas atualizações de software e patches de segurança para garantir que o sistema esteja protegido contra vulnerabilidades conhecidas e continue funcionando de forma otimizada.
 <br><br>
 
-(https://github-readme-stats.vercel.app/api?username={nbtech-prox}&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username={nbtech-prox}&theme=blue-green)
 
 
 
