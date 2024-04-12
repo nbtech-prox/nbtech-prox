@@ -1,5 +1,6 @@
 # Hey Everyone! I'm [Nuno Batista - nbtech-prox](https://github.com/nbtech-prox)
 ### Programando com paixão e liberdade de código 💻🌟❤️ #OpenSourceLove ❤️🌟💻
+### Meu IDE preferido é [Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <br><br>
