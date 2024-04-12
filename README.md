@@ -57,14 +57,23 @@
 ##### Técnico em Manutenção de Máquinas CNC
 - Diagnóstico e resolução de problemas mecânicos, elétricos e de software em máquinas CNC, incluindo questões relacionadas à programação G-Code.
 - Execução de manutenção preventiva e corretiva para garantir o funcionamento adequado das máquinas e a precisão dos movimentos controlados pelo G-Code
-- Colaboração com a equipe de engenharia para implementar melhorias nos processos e aumentar a eficiência operacional.
 ##### Wordpress
 - Desenvolvimento de sites personalizados.
 - Otimização de desempenho.
 - Design responsivo.
 - Creiação de plugins.
-
-
+##### Virtualização com Proxmox
+- **Design de Sistemas:** Crio planos detalhados para ambientes virtuais e de armazenamento que sejam eficientes, escaláveis e atendam às necessidades específicas de cada cliente.
+- **Configuração e Instalação:** Implemento e coloco em funcionamento os sistemas, garantindo uma configuração correta e uma transição suave para a nova infraestrutura.
+- **Segurança:** Garanto que os sistemas estejam protegidos contra ameaças cibernéticas, configurando firewalls, implementando práticas de segurança recomendadas e mantendo-os atualizados com as últimas correções de segurança.
+- entre outros.
+- **Manutenção:** Atualizações e Patches: Manter o Proxmox atualizado com as últimas atualizações de software e patches de segurança, garantindo que o sistema esteja protegido contra vulnerabilidades conhecidas e operando com eficiência.
+##### Servidor de filheiros com TrueNAS
+- **Planejamento de Infraestrutura de Armazenamento:** Desenvolver planos detalhados para implementar ambientes de armazenamento que atendam às necessidades específicas de cada cliente, garantindo eficiência, escalabilidade e segurança.
+- **Implementação e Configuração:** Colocar em prática os planos elaborados, garantindo uma instalação e configuração corretas do TrueNAS para atender às demandas de armazenamento da empresa.
+- **Segurança e Proteção de Dados:** Assegurar que o ambiente de armazenamento seja protegido contra ameaças cibernéticas, configurando medidas de segurança robustas e implementando políticas de backup e recuperação de dados eficazes.
+- **Backup e Recuperação de Dados:** Implementar e testar regularmente procedimentos de backup e recuperação de dados para proteger contra perda de dados e garantir a disponibilidade de informações críticas em caso de falha do sistema.
+- **Manutenção:** Manter o TrueNAS atualizado com as últimas atualizações de software e patches de segurança para garantir que o sistema esteja protegido contra vulnerabilidades conhecidas e continue funcionando de forma otimizada.
 
 
 
