@@ -43,16 +43,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <br><br>
 
-<h3><b><samp>Designer Skills ( Habilidades em Designer )</samp></b></h3>
+### Designer Skills - Habilidades em Designer
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
+<br><br>
 
 <h3><b><samp>Learning ( Conhecimentos )</samp></b></h3>
 <h4><b><samp>AutoCAD 2D e 3D - utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.</samp></b></h4>
+<h4><b><samp>Técnico em Manutenção de Máquinas CNC</samp></b></h4>
+Diagnóstico e resolução de problemas mecânicos, elétricos e de software em máquinas CNC.
+Execução de manutenção preventiva e corretiva para garantir o funcionamento adequado das máquinas.
+Colaboração com a equipe de engenharia para implementar melhorias nos processos e aumentar a eficiência operacional.
 
 
 
