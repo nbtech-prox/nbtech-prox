@@ -53,7 +53,7 @@
 
 <h3><b><samp>Learning ( Conhecimentos )</samp></b></h3>
 <h4><b><samp>AutoCAD 2D e 3D</samp></b></h4>
-<p align="center">utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.</p>
+<p align="left" font-size="10px">utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.</p>
 
 
 
