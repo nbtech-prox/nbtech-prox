@@ -55,9 +55,15 @@
 #### Learning - Conhecimentos
 ##### AutoCAD 2D e 3D - utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.
 ##### Técnico em Manutenção de Máquinas CNC
-- Diagnóstico e resolução de problemas mecânicos, elétricos e de software em máquinas CNC.
-- Execução de manutenção preventiva e corretiva para garantir o funcionamento adequado das máquinas.
+- Diagnóstico e resolução de problemas mecânicos, elétricos e de software em máquinas CNC, incluindo questões relacionadas à programação G-Code.
+- Execução de manutenção preventiva e corretiva para garantir o funcionamento adequado das máquinas e a precisão dos movimentos controlados pelo G-Code
 - Colaboração com a equipe de engenharia para implementar melhorias nos processos e aumentar a eficiência operacional.
+##### Wordpress
+- Desenvolvimento de sites personalizados.
+- Otimização de desempenho.
+- Design responsivo.
+- Creiação de plugins.
+
 
 
 
