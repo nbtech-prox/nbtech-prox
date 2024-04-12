@@ -2,6 +2,7 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <br><br>
+<p>
 <a href="https://github.com/nbtech-prox">
   <img align="center" alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -14,3 +15,4 @@
 <a href="https://www.tiktok.com/@nuno.batista27">
   <img align="center" alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
+</p>
