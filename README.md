@@ -80,7 +80,7 @@
 
 &nbsp;&nbsp;
 ![stats](https://github-readme-stats.vercel.app/api?username=nbtech-prox&theme=blue-green) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![statslang](https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&theme=blue-green)
 
 
