@@ -1,6 +1,6 @@
 # Hey Everyone! I'm [Nuno Batista - nbtech-prox](https://github.com/nbtech-prox)
 ### Programando com paixão e liberdade de código 💻🌟❤️ #OpenSourceLove ❤️🌟💻
-### Meu IDE preferido é ![Zed Editor](https://img.shields.io/badge/zed-editor?style=for-the-badge&color=blue)
+### Meu IDE preferido é ![Static Badge](https://img.shields.io/badge/Zed-editor?style=flat-square&logo=zedindustries&logoColor=white&labelColor=blue&color=blue)
 ### Meu OS é ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
