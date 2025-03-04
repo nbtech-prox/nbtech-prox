@@ -63,7 +63,7 @@
 - Desenvolvimento de sites personalizados.
 - Otimização de desempenho.
 - Design responsivo.
-- Creiação de plugins.
+- Creação de plugins.
 ##### Virtualização com Proxmox
 - **Design de Sistemas:** Crio planos detalhados para ambientes virtuais e de armazenamento que sejam eficientes, escaláveis e atendam às necessidades específicas de cada cliente.
 - **Configuração e Instalação:** Implemento e coloco em funcionamento os sistemas, garantindo uma configuração correta e uma transição suave para a nova infraestrutura.
