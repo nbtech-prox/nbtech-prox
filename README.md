@@ -1,101 +1,90 @@
-# Hey Everyone! I'm [Nuno Batista - NBTech](https://github.com/nbtech-prox)
-### Programando com paixão e liberdade de código 💻🌟❤️ #OpenSourceLove ❤️🌟💻
-### Meu IDE preferido é ![Antigravity](https://img.shields.io/badge/Antigravity-IDE-8E44AD?style=flat-square&logo=google&logoColor=white)
-### Meu OS é ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-<br><br>
-![](./header_.png)
-<br><br>
-<p align="center">
-<a href="https://github.com/nbtech-prox">
-  <img alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/NBon.informatica">
-  <img alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/nbon.informatica/">
-  <img alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://www.tiktok.com/@nuno.batista27">
-  <img alt="nbtech-prox" width="100px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-</p>
-<br><br>
+<div align="center">
+  <img src="./header_.png" width="100%" alt="Banner" />
+  
+  # Nuno Batista - NBTech
+  
+  ### *Programando com paixão e liberdade de código* 💻🌟❤️
+  
+  ![Antigravity](https://img.shields.io/badge/Antigravity-IDE-8E44AD?style=for-the-badge&logo=google&logoColor=white)
+  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  
+  <br>
 
-#### Habilidades em Programação
+  <!-- Socials -->
+  <a href="https://github.com/nbtech-prox">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/NBon.informatica">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nbon.informatica/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@nuno.batista27">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+## 🚀 Habilidades Técnicas
+
+<div align="center">
+
+**Linguagens & Frameworks** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![PyStack](https://img.shields.io/badge/Python-Flask_%7C_Flet-007ACC?style=flat-square&logo=python&logoColor=white)
+<br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-<br><br>
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python Stack](https://img.shields.io/badge/Python-Flask_%7C_Flet-007ACC?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Habilidades em Design
+<br>
 
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Banco de Dados & CMS** <br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+<br>
+
+**Design & Ferramentas** <br>
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
-<br><br>
 
-#### Learning - Conhecimentos
-##### AutoCAD 2D e 3D - utilizo o AutoCAD para criar e editar desenhos em 2D e 3D.
-##### Técnico em Manutenção de Máquinas CNC
-- Diagnóstico e resolução de problemas mecânicos, elétricos e de software em máquinas CNC, incluindo questões relacionadas à programação G-Code.
-- Execução de manutenção preventiva e corretiva para garantir o funcionamento adequado das máquinas e a precisão dos movimentos controlados pelo G-Code
-##### Wordpress
-- Desenvolvimento de sites personalizados.
-- Otimização de desempenho.
-- Design responsivo.
-- Criação de plugins.
-##### Virtualização com Proxmox
-- **Design de Sistemas:** Crio planos detalhados para ambientes virtuais e de armazenamento que sejam eficientes, escaláveis e atendam às necessidades específicas de cada cliente.
-- **Configuração e Instalação:** Implemento e coloco em funcionamento os sistemas, garantindo uma configuração correta e uma transição suave para a nova infraestrutura.
-- **Segurança:** Garanto que os sistemas estejam protegidos contra ameaças cibernéticas, configurando firewalls, implementando práticas de segurança recomendadas e mantendo-os atualizados com as últimas correções de segurança.
-- entre outros.
-- **Manutenção:** Atualizações e Patches: Manter o Proxmox atualizado com as últimas atualizações de software e patches de segurança, garantindo que o sistema esteja protegido contra vulnerabilidades conhecidas e operando com eficiência.
-##### Servidor de ficheiros com TrueNAS
-- **Planejamento de Infraestrutura de Armazenamento:** Desenvolver planos detalhados para implementar ambientes de armazenamento que atendam às necessidades específicas de cada cliente, garantindo eficiência, escalabilidade e segurança.
-- **Implementação e Configuração:** Colocar em prática os planos elaborados, garantindo uma instalação e configuração corretas do TrueNAS para atender às demandas de armazenamento da empresa.
-- **Segurança e Proteção de Dados:** Assegurar que o ambiente de armazenamento seja protegido contra ameaças cibernéticas, configurando medidas de segurança robustas e implementando políticas de backup e recuperação de dados eficazes.
-- **Backup e Recuperação de Dados:** Implementar e testar regularmente procedimentos de backup e recuperação de dados para proteger contra perda de dados e garantir a disponibilidade de informações críticas em caso de falha do sistema.
-- **Manutenção:** Manter o TrueNAS atualizado com as últimas atualizações de software e patches de segurança para garantir que o sistema esteja protegido contra vulnerabilidades conhecidas e continue funcionando de forma otimizada.
-<br><br>
+</div>
 
-&nbsp;&nbsp;
-![stats](https://github-readme-stats.vercel.app/api?username=nbtech-prox&theme=blue-green) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![statslang](https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&theme=blue-green)
+<br>
+<hr>
+<br>
 
+## 💡 Experiência & Conhecimentos
 
+### 🏗️ Design e Manufatura
+- **AutoCAD 2D e 3D**: Criação e edição de projetos técnicos.
+- **Máquinas CNC**: 
+  - Diagnóstico e manutenção (mecânica, elétrica e software).
+  - Programação G-Code e manutenção preventiva.
 
+### 🐧 Infraestrutura e Servidores
+- **Virtualização (Proxmox)**: Design de sistemas, segurança, configuração de firewalls e manutenção contínua.
+- **Storage (TrueNAS)**: Planejamento de infraestrutura de armazenamento, backups, recuperação de dados e proteção contra ameaças.
 
+### 🌐 Web Development
+- **Wordpress**: Temas personalizados, otimização e criação de plugins.
+- **Full Stack**: Integração de sistemas com Python/PHP e bancos de dados relacionais.
 
+<br>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbtech-prox&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000000" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&layout=compact&theme=blue-green&hide_border=true&bg_color=00000000" height="150" alt="languages"/>
+</div>
