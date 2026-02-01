@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header_.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/nbtech-prox/nbtech-prox/development/header_.png" width="100%" alt="Banner" />
   
   # Nuno Batista - NBTech
   
