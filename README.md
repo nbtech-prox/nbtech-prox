@@ -83,7 +83,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbtech-prox&amp;show_icons=true&amp;theme=blue-green&amp;hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&amp;layout=compact&amp;theme=blue-green&amp;hide_border=true" height="150" alt="languages"/>
-</div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nbtech-prox&show_icons=true&theme=blue-green&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&layout=compact&theme=blue-green&hide_border=true)
+
