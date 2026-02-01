@@ -78,9 +78,7 @@
 <hr>
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nbtech-prox&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
-</div>
+
 
 ## 💡 Experiência & Conhecimentos
 
@@ -104,6 +102,18 @@
 
 <div align="center">
   <img src="https://github.com/nbtech-prox/nbtech-prox/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center" style="margin-top: -80px;">
+  <img src="https://komarev.com/ghpvc/?username=nbtech-prox&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
+  <br>
+  <sub>© 2025 Nuno Batista - NBTech. Feito com 💜 e Código.</sub>
 </div>
 
 
