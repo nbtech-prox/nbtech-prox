@@ -84,6 +84,11 @@
 <br>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nbtech-prox&show_icons=true&theme=blue-green&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbtech-prox&layout=compact&theme=blue-green&hide_border=true)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nbtech-prox&theme=onedark&no-frame=true&column=7" alt="trophy" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbtech-prox&theme=dark&hide_border=true" alt="streak" />
+</div>
 
