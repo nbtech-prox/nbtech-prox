@@ -1,9 +1,9 @@
 # Hey Everyone! I'm [Nuno Batista - NBTech](https://github.com/nbtech-prox)
 ### Programando com paixão e liberdade de código 💻🌟❤️ #OpenSourceLove ❤️🌟💻
-### Meu IDE preferido é ![Static Badge](https://img.shields.io/badge/Zed-editor?style=flat-square&logo=zedindustries&logoColor=white&labelColor=blue&color=blue)
+### Meu IDE preferido é ![Antigravity](https://img.shields.io/badge/Antigravity-IDE-8E44AD?style=flat-square&logo=google&logoColor=white)
 ### Meu OS é ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](./header_.png)
 <br><br>
 <p align="center">
 <a href="https://github.com/nbtech-prox">
@@ -44,14 +44,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <br><br>
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python Stack](https://img.shields.io/badge/Python-Flask_%7C_Flet-007ACC?style=flat-square&logo=python&logoColor=white)
 
-#### Habilidades em Designer
+#### Habilidades em Design
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
 <br><br>
 
 #### Learning - Conhecimentos
@@ -63,7 +66,7 @@
 - Desenvolvimento de sites personalizados.
 - Otimização de desempenho.
 - Design responsivo.
-- Creação de plugins.
+- Criação de plugins.
 ##### Virtualização com Proxmox
 - **Design de Sistemas:** Crio planos detalhados para ambientes virtuais e de armazenamento que sejam eficientes, escaláveis e atendam às necessidades específicas de cada cliente.
 - **Configuração e Instalação:** Implemento e coloco em funcionamento os sistemas, garantindo uma configuração correta e uma transição suave para a nova infraestrutura.
