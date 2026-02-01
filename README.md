@@ -3,7 +3,7 @@
   
   # Nuno Batista - NBTech
   
-  ### *Programando com paixão e liberdade de código* 💻🌟❤️
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CBCC&center=true&vCenter=true&width=500&lines=Programando+com+Paix%C3%A3o+e+Liberdade+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Infrastructure+%26+Virtualization+%F0%9F%90%A7;Open+Source+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
   
   ![Antigravity](https://img.shields.io/badge/Antigravity-IDE-8E44AD?style=for-the-badge&logo=google&logoColor=white)
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -61,9 +61,26 @@
 
 </div>
 
+
+## 🛠️ Projetos em Destaque
+
+<div align="center">
+
+| ⚡ **HermesX** | ✅ **Listify Plus** | 🛠️ **DevOps Scripts** |
+|:---:|:---:|:---:|
+| Sistema de Mensagens Rápido | Gestor de Tarefas Otimizado (PHP) | Automação e Gestão de Sistemas |
+| ![HermesX](https://img.shields.io/badge/HermesX-Python-orange?style=flat-square&logo=python&logoColor=white) | ![Listify](https://img.shields.io/badge/Listify-PHP_8-blue?style=flat-square&logo=php&logoColor=white) | ![Scripts](https://img.shields.io/badge/Bash-Automation-success?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [Ver Projeto](https://github.com/nbtech-prox/hermesx) | [Ver Projeto](https://github.com/nbtech-prox/listify-plus) | [Ver Projeto](https://github.com/nbtech-prox/scripts) |
+
+</div>
+
 <br>
 <hr>
 <br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nbtech-prox/count.svg" alt="Visitors" />
+</div>
 
 ## 💡 Experiência & Conhecimentos
 
