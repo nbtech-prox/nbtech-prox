@@ -84,11 +84,9 @@
 <br>
 
 
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nbtech-prox&theme=onedark&no-frame=true&column=7" alt="trophy" />
-  </a>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbtech-prox&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://github.com/nbtech-prox/nbtech-prox/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
 
