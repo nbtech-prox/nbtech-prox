@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nbtech-prox/count.svg" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=nbtech-prox&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
 </div>
 
 ## 💡 Experiência & Conhecimentos
