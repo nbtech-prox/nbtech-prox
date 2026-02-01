@@ -36,29 +36,28 @@
 <div align="center">
 
 **Linguagens & Frameworks** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-5.0-092E20?style=flat-square&logo=django&logoColor=white)
 ![PyStack](https://img.shields.io/badge/Python-Flask_%7C_Flet-007ACC?style=flat-square&logo=python&logoColor=white)
 <br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br>
 
 **Banco de Dados & CMS** <br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-6.4-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 <br>
 
 **Design & Ferramentas** <br>
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-4.0-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-1.3-000000?style=flat-square&logo=inkscape&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-2.10-5C5543?style=flat-square&logo=gimp&logoColor=white)
 
 </div>
 
